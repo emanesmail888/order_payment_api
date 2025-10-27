@@ -19,6 +19,8 @@ This API allows you to change the status of an order to 'paid' and update the us
   - `Repositories/OrderRepository.php`: Database queries.
   - `Models/User.php && Order.php`: Eloquent model.
   - `Requests/*`:OrderPayRequest Validation for CRUD and search.
+  - Adding UserFactory And OrderFactory.
+  - Adding OrderTest .
 
 ## Endpoints
 
